@@ -19,4 +19,7 @@ The project is planned to incorporate following features, if sufficient time suf
 - **Process Image Announcements and Extract** relevant data from images, such as Location, Date, Time et cetra.
 - Process Voice Messages to extract relevant information.
 
+## References
+- [Regular Expression Language](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference?redirectedfrom=MSDN)
+
 ***Note: Check the [Project Progress Report](/Project_Progress.md) for entire progress details.***
